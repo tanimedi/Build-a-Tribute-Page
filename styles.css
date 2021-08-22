@@ -1,0 +1,42 @@
+#img-div {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+#image {
+  justify-content: center;
+  width: 700px;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+#title {
+  text-align: center;
+  font-size: 26px;
+  font-weight: bold;
+  background-color: lightgrey;
+  padding: 10px;
+}
+#img-caption {
+  text-align: center;
+  margin: 0;
+}
+#info {
+  text-align: center;
+  font-size: 20px;
+  background-color: lightgrey;
+}
+#facts {
+  font-weight: bold;
+}
+
+#spring {
+  font-style: italic;
+}
+
+#mother {
+  font-size: 16px;
+  font-weight: normal;
+}
